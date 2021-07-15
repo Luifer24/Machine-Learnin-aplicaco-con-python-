@@ -1,2 +1,2 @@
-# Machine-Learnin-aplicaco-con-python-
+# Machine-Learning-aplicado-con-python-
 Prediccion de peliculas
